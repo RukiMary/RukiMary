@@ -1,4 +1,4 @@
-### Hi! I'm Mary, future software engineer
+### Hi! I'm Mary, future `software engineer`
 ![cat 1](https://github.com/RukiMary/RukiMary/assets/158507872/b2b6ac40-2724-4f67-95ff-27c991b65082)
 
 <!--
